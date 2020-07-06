@@ -1,0 +1,5 @@
+In pom.xml and nbactions.xml, set <packaging>war</packaging>.
+Build clean.
+Open github/aspen directory and double-click deploy.cmd.
+Enter credentials (1Password -> Aspen FTP User)
+i think u just did it boiiiiiii

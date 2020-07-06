@@ -1,0 +1,1 @@
+curl -v -X POST -su "$aspenapp" --data-binary @"Xaspen/target/Planner-0.1-ALPHA.war" ftps://waws-prod-mwh-007.ftp.azurewebsites.windows.net/site/wwwroot

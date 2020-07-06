@@ -1,0 +1,2 @@
+ftps://waws-prod-mwh-007.ftp.azurewebsites.windows.net/site/wwwroot
+https://aspenplanner.scm.azurewebsites.net/api/wardeploy
